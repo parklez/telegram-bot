@@ -1,9 +1,9 @@
 #####################################
 
-token = '364426062:AAFdiYGCEKhblIP2B8MVcIHwPcnxhOEfLlc'
+token = ''
 
-admin_id = 329462464
-admin_name = '@parklez'
+admin_id = 12345678
+admin_name = ''
 
 #####################################
 
