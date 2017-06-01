@@ -19,4 +19,4 @@ def talk_to_chat(message):
         bot.send_message(cid, 'Done!')
         
     else:
-        bot.send_message(-183477300, message.text)
+        bot.send_message(-12345678, message.text)
